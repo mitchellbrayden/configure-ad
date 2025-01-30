@@ -27,7 +27,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/0kSy9qy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PKHWK1s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open Server Manager on the Windows Server virtual machine(DC-1).
